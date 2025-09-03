@@ -1,2 +1,1 @@
-C++ Payroll Management System
 This is a console-based Payroll Management System built with C++. It provides a simple and efficient way to manage employee records, generate salary slips, and handle basic payroll tasks. The system uses a binary file (EMPLOYEE.DAT) to persist employee data, ensuring that information is saved between sessions.
